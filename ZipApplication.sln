@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29025.244
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriezesZipApp", "WpfApp1\DriezesZipApp.csproj", "{E35D0D13-3860-4583-A38A-8DD3F9CA3B56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriezesZipApp", "DriezesZipApp\DriezesZipApp.csproj", "{E35D0D13-3860-4583-A38A-8DD3F9CA3B56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
